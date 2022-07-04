@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-token-auth-module",
+  "name": "@myhouse/nuxt-token-auth-module",
   "version": "2.4.3",
   "description": "Token based authentication module for Nuxt.js",
   "author": "yodaskillme@gmail.com",
