@@ -1,6 +1,6 @@
 {
   "name": "@myhouse/nuxt-token-auth-module",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "description": "Token based authentication module for Nuxt.js",
   "author": "yodaskillme@gmail.com",
   "license": "ISC",
